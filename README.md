@@ -12,6 +12,6 @@
 - 💬 Ask me anything about Aosp
 - 📫 How to reach me: [![email](https://img.shields.io/badge/Email-adityabihat6@gmail.com-red?style=flat-square&logo=gmail)](adityabihat6@gmail.com), / [![telegram](https://img.shields.io/badge/Telegram-Adi-blue?style=flat-square&logo=telegram)](https://t.me/AdItYa_SdM_Gng), / [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theyenvyadii)
 
-- I'm maintaining for Realme Gt Neo 2 or bitra and Poco M6 Pro or sky
+- I'm maintaining for Oneplus Nord 3 5G
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=adi-sdm&theme=codestackr)](https://git.io/streak-stats)
