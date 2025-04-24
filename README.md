@@ -14,4 +14,4 @@
 
 - I'm maintaining for Oneplus Nord 3 5G
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=adi-sdm&theme=codestackr)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adi-sdm)](https://git.io/streak-stats)
