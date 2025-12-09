@@ -14,7 +14,7 @@
 
 - I'm maintaining for Oneplus Nord 3 5G
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=adi-sdm)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adi-sdm)](https://git.io/streak-stats)
 
 - 📫 How to reach me: [![email](https://img.shields.io/badge/Email-adityabihat6@gmail.com-red?style=flat-square&logo=gmail)](adityabihat6@gmail.com), / [![telegram](https://img.shields.io/badge/Telegram-Adi-blue?style=flat-square&logo=telegram)](https://t.me/AdItYa_SdM_Gng), / [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theyenvyadii)
 
